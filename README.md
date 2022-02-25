@@ -11,5 +11,5 @@ The performance and the accuracies of the classifiers are very good, in fact all
 ![Working Prototype1](Performance.png)
 
 REFERENCES
-[1] Christopher M Bishop. Pattern recognition and machine learning. springer, 2006.
-[2] TapWithUs. TapWithUs/tap-python-sdk. Mar. 2021. URL: https://github.com/TapWithUs/tap-python-sdk.
+- [1] Christopher M Bishop. Pattern recognition and machine learning. springer, 2006.
+- [2] TapWithUs. TapWithUs/tap-python-sdk. Mar. 2021. URL: https://github.com/TapWithUs/tap-python-sdk.
