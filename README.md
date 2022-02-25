@@ -6,6 +6,7 @@ The aim of this project is to present the Tap Strap hand-gestures device as an A
 
 The results obtained lead to the conclusion that for the scope of this project, SVM tends to be a more complete classifier. In addition to this, a Python script has been designed to test the alphabet recognition in real time in Ubuntu, with very good results.
 
+- Click to see the video:
 [![Video Presentation](test.png)](https://vimeo.com/681846114 "Video Presentation - Click to Watch!")
 
 The performance and the accuracies of the classifiers are very good, in fact all the methods perform similarly. However, the best classifier is SVM with 5 components, achieving 99.18% of accuracy. From the confusion matrices and performance scores we can validate that there are few errors and few incorrectly detected classes.
