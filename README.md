@@ -6,7 +6,7 @@ The aim of this project is to present the Tap Strap hand-gestures device as an A
 
 The results obtained lead to the conclusion that for the scope of this project, SVM tends to be a more complete classifier. In addition to this, a Python script has been designed to test the alphabet recognition in real time in Ubuntu, with very good results.
 
-![Working Prototype Video] https://vimeo.com/681846114
+![Working Prototype Video](https://vimeo.com/681846114)
 
 ![Working Prototype1](test.png)
 
