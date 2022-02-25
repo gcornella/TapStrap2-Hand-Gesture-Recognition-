@@ -9,3 +9,7 @@ The results obtained lead to the conclusion that for the scope of this project, 
 The performance and the accuracies of the classifiers are very good, in fact all the methods perform similarly. However, the best classifier is SVM with 5 components, achieving 99.18% of accuracy. From the confusion matrices and performance scores we can validate that there are few errors and few incorrectly detected classes.
 
 ![Working Prototype1](Performance.png)
+
+REFERENCES
+[1] Christopher M Bishop. Pattern recognition and machine learning. springer, 2006.
+[2] TapWithUs. TapWithUs/tap-python-sdk. Mar. 2021. URL: https://github.com/TapWithUs/tap-python-sdk.
